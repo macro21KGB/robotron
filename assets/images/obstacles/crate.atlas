@@ -1,5 +1,5 @@
 images {
-  image: "/images/bandana.png"
+  image: "/assets/images/obstacles/crate.png"
   sprite_trim_mode: SPRITE_TRIM_MODE_OFF
 }
 margin: 0

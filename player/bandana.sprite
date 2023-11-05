@@ -1,4 +1,4 @@
-tile_set: "/images/player_sprites.atlas"
+tile_set: "/assets/images/player_sprites.atlas"
 default_animation: "bandana"
 material: "/builtins/materials/sprite.material"
 blend_mode: BLEND_MODE_ALPHA

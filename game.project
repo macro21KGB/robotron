@@ -5,12 +5,13 @@ main_collection = /main/main.collectionc
 shared_state = 1
 
 [display]
-width = 1920
-height = 1080
+width = 1080
+height = 720
 
 [android]
 input_method = HiddenInputField
 
 [project]
 title = Robotron
+dependencies#0 = https://github.com/defold/lua-language-server/releases/download/v0.0.5/release.zip
 
